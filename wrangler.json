@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "nrlapi",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "737de2b8-0eea-47fb-a94f-99f5c10705d8",
+      "database_name": "rough-sky-746d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
